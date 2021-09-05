@@ -1,3 +1,6 @@
 # DACON.IO
 
-Dacon_Individual
+https://dacon.io/
+
+> Competition of Dacon
+
